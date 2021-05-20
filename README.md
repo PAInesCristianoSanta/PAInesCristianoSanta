@@ -1,4 +1,5 @@
-Dados relativos ao nº de diplomados em Portugal no ano letivo 2012/2013
+💡 Dados relativos ao nº de diplomados em Portugal no ano letivo 2012/2013
+
 ℹ️ Fonte dos dados: Dados extraídos da plataforma dados.gov – portal de dados abertos da Administração Pública (https://dados.gov.pt/) 
 Dados.gov é o portal de dados abertos da Administração Pública portuguesa.
 Tem como função agregar, referenciar e alojar dados abertos de diferentes organismos e setores da Administração Pública, constituindo-se como o catálogo central de open data em Portugal. Além de funcionar como um serviço partilhado de alojamento e publicação de dados, que pode ser utilizado por qualquer organismo público, funciona também como um portal indexador de conteúdos alojados noutros portais/catálogos de dados abertos, sejam setoriais (ex. Saúde, Justiça, Ambiente) ou locais (ex. Câmara Municipal de Lisboa, Câmara Municipal de Águeda).
@@ -191,9 +192,7 @@ Como tal e de forma a tratarmos os dados com maior precisão, optámos por atrib
 💡 Bibliografia
 
 https://github.com/dssg-pt/covid19pt-data
-
 https://dados.gov.pt/pt/docs/about_dadosgov/
-
 https://dados.gov.pt/pt/datasets/alunos-diplomados-no-ensino-superior/#_
 https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py
 https://matplotlib.org/stable/gallery/index.html
