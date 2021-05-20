@@ -28,15 +28,7 @@ O repositório está organizado da seguinte forma:
 📔 Dicionário dos dados
 Uma explicação do conteúdo em data.csv.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-kftd{background-color:#efefef;text-align:left;vertical-align:top}
-.tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+
 </style>
 <table class="tg">
 <thead>
