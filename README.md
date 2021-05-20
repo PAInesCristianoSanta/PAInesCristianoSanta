@@ -33,7 +33,7 @@ Sendo um trabalho em desenvolvimento ainda não nos é possível aferir as aplic
 
 🧱 Estrutura
 ----
-O repositório está organizado da seguinte forma:
+O repositório está organizado da seguinte forma:<br>
 •	DiplomadosFinal.csv: Dados extraídos da dashboard Diplomados 12_13<br>
 •	TrabalhoFinal.ipynb: notebook onde os alunos desenvolveram o seu trabalho/racicício<br>
 •	PropostasProjeto_Inicial: proposta de projeto de trabalho incial entregue ao docente da UC<br>
