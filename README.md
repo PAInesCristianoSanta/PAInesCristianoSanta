@@ -221,7 +221,8 @@ Como tal e de forma a tratarmos os dados com maior precisão, optámos por atrib
 Para o desenvolvimento deste trabalho os alunos consultaram páginas e respetivo código disponíveis na internet e nos respetivos sites dedicados a esta temática.
 As aulas lecionadas e o material partilhado pelo docente da unidade curricular, [Prof. Doutor João Orvalho](https://www.joao-orvalho.pt), foram igualmente preponderantes para o desenvolvimento e organização deste trabalho.
 
-💡 Bibliografia
+💡![image](https://user-images.githubusercontent.com/84467035/119020590-50fe2d00-b996-11eb-9679-7d1f55cfcb5e.png)
+ Bibliografia
 --
 https://github.com/dssg-pt/covid19pt-data<br>
 https://dados.gov.pt/pt/docs/about_dadosgov/<br>
