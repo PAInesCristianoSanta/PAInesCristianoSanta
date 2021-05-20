@@ -223,30 +223,23 @@ As aulas lecionadas e o material partilhado pelo docente da unidade curricular, 
 
 💡 Bibliografia
 --
-https://github.com/dssg-pt/covid19pt-data
-
-https://dados.gov.pt/pt/docs/about_dadosgov/
-https://dados.gov.pt/pt/datasets/alunos-diplomados-no-ensino-superior/#
-https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py
-https://matplotlib.org/stable/gallery/index.html
-http://localhost:8889/notebooks/PA2/barchart.ipynb
-http://localhost:8889/notebooks/PA2/Aula%2021%2C%2028%20Abril%20e%205%20de%20Maio%20-%20Python%20Maltplotlib%20exercicios.ipynb
-https://www.dges.gov.pt/ 
-http://www.tablesgenerator.com/
+https://github.com/dssg-pt/covid19pt-data<br>
+https://dados.gov.pt/pt/docs/about_dadosgov/<br>
+https://dados.gov.pt/pt/datasets/alunos-diplomados-no-ensino-superior/#<br>
+https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py<br>
+https://matplotlib.org/stable/gallery/index.html<br>
+http://localhost:8889/notebooks/PA2/barchart.ipynb<br>
+http://localhost:8889/notebooks/PA2/Aula%2021%2C%2028%20Abril%20e%205%20de%20Maio%20-%20Python%20Maltplotlib%20exercicios.ipynb<br>
+https://www.dges.gov.pt/<br>
+http://www.tablesgenerator.com/<br>
 
 💡 Legislação útil
 --
-LEI N.º 46/86, DE 14 DE OUTUBRO - LEI DE BASES DO SISTEMA EDUCATIVO
-Lei nº 46/86, de 14 de outubro
+[LEI N.º 46/86, DE 14 DE OUTUBRO](https://dre.pt/application/file/222361) - LEI DE BASES DO SISTEMA EDUCATIVO<br>
+[LEI N.º 62/2007, DE 10 DE SETEMBRO](https://dre.pt/application/file/671482) - REGIME JURÍDICO DAS INSTITUIÇÕES DE ENSINO SUPERIOR<br>
+[DECRETO-LEI N.º 74/2006, DE 24 DE MARÇO](https://dre.pt/application/file/671482) - GRAUS E DIPLOMAS DO ENSINO SUPERIOR<br>
+[LEI N.º 38/2007, DE 16 DE AGOSTO](https://dre.pt/application/file/637086) - AVALIAÇÃO DO ENSINO SUPERIOR
 
-LEI N.º 62/2007, DE 10 DE SETEMBRO - REGIME JURÍDICO DAS INSTITUIÇÕES DE ENSINO SUPERIOR
-Lei nº 62/2007, de 10 de setembro
-
-DECRETO-LEI N.º 74/2006, DE 24 DE MARÇO - GRAUS E DIPLOMAS DO ENSINO SUPERIOR
-Decreto-Lei nº 74/2006, de 24 de março
-
-LEI N.º 38/2007, DE 16 DE AGOSTO - AVALIAÇÃO DO ENSINO SUPERIOR
-Lei nº 38/2007, de 16 de agosto
 
 
 
