@@ -1,4 +1,5 @@
 💡 Dados relativos ao nº de diplomados em Portugal no ano letivo 2012/2013
+----------------------------
 
 ℹ️ Fonte dos dados: Dados extraídos da plataforma dados.gov – portal de dados abertos da Administração Pública (https://dados.gov.pt/) 
 Dados.gov é o portal de dados abertos da Administração Pública portuguesa.
@@ -10,7 +11,12 @@ Disponibiliza também vários mecanismos de interação entre fornecedores de da
 
 ℹ️ Ficheiro base de trabalho: Alunos diplomados no Ensino Superior (ADES) - dados.gov.pt - Portal de dados abertos da Administração Pública
 
-👁️ Utilização da base de dados: a base de dados escolhida para trabalhar deveu-se ao facto de entre as bases de dados disponíveis ser a que continha os dados mais recentes.
+
+--------------
+
+📔 Utilização da base de dados: 
+-----
+A base de dados escolhida para trabalhar deveu-se ao facto de entre as bases de dados disponíveis ser a que continha os dados mais recentes.
 
 
 
