@@ -36,9 +36,9 @@ Sendo um trabalho em desenvolvimento ainda não nos é possível aferir as aplic
 🧱 Estrutura
 ----
 O repositório está organizado da seguinte forma:
-•	data.csv: Dados extraídos da dashboard Diplomados 12_13
-•	jupyter
-•	projeto
+•	DiplomadosFinal.csv: Dados extraídos da dashboard Diplomados 12_13
+•	TrabalhoFinal.ipynb
+•	PropostasProjeto_Inicial
 
 -------------------------------------------------------------------------
 
@@ -202,7 +202,7 @@ O ensino superior passou a ter uma nova estrutura de três ciclos de estudos, co
 Foram também estabelecidos, para cada ciclo de estudos, descritores de qualificação genéricos, com base nas competências adquiridas, assim como a definição de intervalos ECTS para o primeiro e segundo ciclo de estudos.
 Em 2014, foi criado um ciclo de estudos superior não conferente de grau académico, denominado curso técnico superior profissional, que corresponde ao ciclo de estudos curto ligado ao 1.º ciclo previsto no Quadro de Qualificações do Espaço Europeu do Ensino Superior.
 
-ℹ️ Informações retiradas de: https://dges.pt
+ℹ️ Informações retiradas de: [Direção Geral do Ensino Superior](www.dges.pt)
 
 ---------------------
 💡 Tratamento de dados
@@ -219,7 +219,7 @@ Como tal e de forma a tratarmos os dados com maior precisão, optámos por atrib
 💡 Outras informações
 --
 Para o desenvolvimento deste trabalho os alunos consultaram páginas e respetivo código disponíveis na internet e nos respetivos sites dedicados a esta temática.
-As aulas lecionadas e o material partilhado pelo docente da unidade curricular, Prof. Doutor João Orvalho, foram igualmente preponderantes para o desenvolvimento e organização deste trabalho.
+As aulas lecionadas e o material partilhado pelo docente da unidade curricular, [Prof. Doutor João Orvalho](https://www.joao-orvalho.pt), foram igualmente preponderantes para o desenvolvimento e organização deste trabalho.
 
 💡 Bibliografia
 --
