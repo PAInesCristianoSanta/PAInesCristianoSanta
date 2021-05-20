@@ -1,8 +1,7 @@
 💡 Dados relativos ao nº de diplomados em Portugal no ano letivo 2012/2013
 ----------------------------
 
-ℹ️ Fonte dos dados: 
-
+ℹ️ Fonte dos dados:<br> 
 Dados extraídos da plataforma [dados.gov](https://dados.gov.pt/) – portal de dados abertos da Administração Pública
 Dados.gov é o portal de dados abertos da Administração Pública portuguesa.
 Tem como função agregar, referenciar e alojar dados abertos de diferentes organismos e setores da Administração Pública, constituindo-se como o catálogo central de open data em Portugal. Além de funcionar como um serviço partilhado de alojamento e publicação de dados, que pode ser utilizado por qualquer organismo público, funciona também como um portal indexador de conteúdos alojados noutros portais/catálogos de dados abertos, sejam setoriais (ex. Saúde, Justiça, Ambiente) ou locais (ex. Câmara Municipal de Lisboa, Câmara Municipal de Águeda).
@@ -12,8 +11,7 @@ Disponibiliza também vários mecanismos de interação entre fornecedores de da
 É desenvolvido e gerido pela Agência para a Modernização Administrativa, IP (AMA), e baseia-se na plataforma udata, um produto criado pelo Etalab, uma estrutura de missão da Administração Pública francesa, e que é desenvolvido e disponibilizado numa lógica open source.
 
 
-ℹ️ Ficheiro base de trabalho: 
-
+ℹ️ Ficheiro base de trabalho: <br>
 [Alunos diplomados no Ensino Superior (ADES)](https://dados.gov.pt/pt/datasets/alunos-diplomados-no-ensino-superior/#_) - Portal de dados abertos da Administração Pública
 
 
@@ -42,7 +40,7 @@ O repositório está organizado da seguinte forma:
 
 -------------------------------------------------------------------------
 
-📔 Dicionário dos dados
+📘 Dicionário dos dados
 --
 
 Uma explicação do conteúdo em data.csv.
@@ -190,7 +188,7 @@ Uma explicação do conteúdo em data.csv.
 ----------------------------------------------------------------------------------------
 
 
-💡 Contexto
+🌎 Contexto
 --
 O sistema educativo português encontra-se regulado pela Lei de Bases do Sistema Educativo e é desenvolvido em três níveis: ensino básico, secundário e superior.
 O ensino superior português organiza-se num sistema binário que integra o ensino universitário e o ensino politécnico e é ministrado em instituições públicas e privadas. Os estabelecimentos de ensino superior privado obtêm reconhecimento de interesse público prévio do Governo.
@@ -205,25 +203,30 @@ Em 2014, foi criado um ciclo de estudos superior não conferente de grau académ
 ℹ️ Informações retiradas de: [Direção Geral do Ensino Superior](www.dges.pt)
 
 ---------------------
-💡 Tratamento de dados
+📝  Tratamento de dados
 --
 
 Considerando o atual contexto social e tendo como princípio a questão da “atribuição de um grau académico” optou-se por apenas tratar os dados relativos às Licenciaturas, Mestrados e Doutoramentos, na medida em que os cursos de CTeSP e Pós-Graduações – presentes no ficheiro original, não atribuem aos seus diplomados um grau académico, mas sim uma especialização.
 Pelo contexto profissional dos participantes e pelo contexto académico, consideramos que no desenvolvimento e tratamento destes dados seria, igualmente, interessante e relevante a distinção, não só dos diplomados que se formaram através do ensino superior público e/ou privado, como dos diplomados que se formaram através do ensino superior universitário e politécnico.
 
-💡 Problemas, inconsistências e melhorias
+------------------------
+‼️ Problemas, inconsistências e melhorias
 --
+
 Algumas das questões detetadas ao longo do tratamento de dados, prenderam-se, sobretudo com a questão da não uniformização das denominações, quer das áreas de estudo, quer o nível de Formação.
 Como tal e de forma a tratarmos os dados com maior precisão, optámos por atribuir a mesma denominação aos níveis de Formação.
 
-💡 Outras informações
+---------------------
+▶️ Outras informações
 --
+
 Para o desenvolvimento deste trabalho os alunos consultaram páginas e respetivo código disponíveis na internet e nos respetivos sites dedicados a esta temática.
 As aulas lecionadas e o material partilhado pelo docente da unidade curricular, [Prof. Doutor João Orvalho](https://www.joao-orvalho.pt), foram igualmente preponderantes para o desenvolvimento e organização deste trabalho.
 
-💡![image](https://user-images.githubusercontent.com/84467035/119020590-50fe2d00-b996-11eb-9679-7d1f55cfcb5e.png)
- Bibliografia
+--------------------
+📚 Bibliografia
 --
+
 https://github.com/dssg-pt/covid19pt-data<br>
 https://dados.gov.pt/pt/docs/about_dadosgov/<br>
 https://dados.gov.pt/pt/datasets/alunos-diplomados-no-ensino-superior/#<br>
@@ -234,8 +237,10 @@ http://localhost:8889/notebooks/PA2/Aula%2021%2C%2028%20Abril%20e%205%20de%20Mai
 https://www.dges.gov.pt/<br>
 http://www.tablesgenerator.com/<br>
 
-💡 Legislação útil
+--------------------------
+📖 Legislação útil
 --
+
 [LEI N.º 46/86, DE 14 DE OUTUBRO](https://dre.pt/application/file/222361) - LEI DE BASES DO SISTEMA EDUCATIVO<br>
 [LEI N.º 62/2007, DE 10 DE SETEMBRO](https://dre.pt/application/file/671482) - REGIME JURÍDICO DAS INSTITUIÇÕES DE ENSINO SUPERIOR<br>
 [DECRETO-LEI N.º 74/2006, DE 24 DE MARÇO](https://dre.pt/application/file/671482) - GRAUS E DIPLOMAS DO ENSINO SUPERIOR<br>
