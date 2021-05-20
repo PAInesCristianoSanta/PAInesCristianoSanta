@@ -187,9 +187,13 @@ Pelo contexto profissional dos participantes e pelo contexto académico, conside
 💡 Problemas, inconsistências e melhorias
 Algumas das questões detetadas ao longo do tratamento de dados, prenderam-se, sobretudo com a questão da não uniformização das denominações, quer das áreas de estudo, quer o nível de Formação.
 Como tal e de forma a tratarmos os dados com maior precisão, optámos por atribuir a mesma denominação aos níveis de Formação.
+
 💡 Bibliografia
+
 https://github.com/dssg-pt/covid19pt-data
+
 https://dados.gov.pt/pt/docs/about_dadosgov/
+
 https://dados.gov.pt/pt/datasets/alunos-diplomados-no-ensino-superior/#_
 https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py
 https://matplotlib.org/stable/gallery/index.html
