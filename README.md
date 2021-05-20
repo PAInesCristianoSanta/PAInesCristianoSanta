@@ -17,7 +17,7 @@ Disponibiliza também vários mecanismos de interação entre fornecedores de da
 👁️ Aplicações deste repositório
 Este é um trabalho académico em desenvolvimento no âmbito da unidade curricular de Programação e Algoritmos 2, do 1º ano do curso de Comunicação e Design Multimédia ministrado na Escola Superior de Educação de Coimbra, do Politécnico de Coimbra.
 
-Sendo um trabalho em desenvolvimento ainda não nos é possível aferir as aplicações deste repositório. Contudo acreditamos que este trabalho poderá ser uma referências para outros trabalhos desenvolvidos no futuro.
+Sendo um trabalho em desenvolvimento ainda não nos é possível aferir as aplicações deste repositório. Contudo acreditamos que este trabalho poderá ser uma referência para outros trabalhos desenvolvidos no futuro.
 --------------------------------------------------------------------------------------------------------------------------
 🧱 Estrutura
 O repositório está organizado da seguinte forma:
