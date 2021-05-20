@@ -29,7 +29,7 @@ O repositório está organizado da seguinte forma:
 Uma explicação do conteúdo em data.csv.
 
 
-</style>
+
 <table class="tg">
 <thead>
   <tr>
