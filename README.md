@@ -11,38 +11,7 @@ O repositório está organizado da seguinte forma:
 •	projeto
 ----------------------------------------------------------------------------------------
 
-📔 Dicionário dos dados
-Uma explicação do conteúdo em data.csv.
-
-Nome da coluna	Significado	Possíveis valores
-Código Estabelecimento	Código atribuído a Instituição MACRO	Integer >=100
-Estabelecimento	Nome da Instituição	String
-Código Unidade Orgânica	Código atribuído a UOE (dentro da instituição)	Integer >=110
-Unidade Orgânica	Nome da UOE	String
-NUTS I	Nomenclatura das Unidades Territoriais para Fins Estatísticos – Continente e Regiões Autónomas da Madeira e Açores
-	String
-NUTS II	Nomenclatura das Unidades Territoriais para Fins Estatísticos –Região Autónomas da Madeira e Açores, Regiões Norte, Centro, Área Metropolitana de Lisboa, Alentejo, Algarve
-	String
-NUTS III	Nomenclatura das Unidades Territoriais para Fins Estatísticos –Alto Minho, Cávado, Ave, Área Metropolitana do Porto, Alto Tâmega, Tâmega e Sousa, Douro, Terras de Trás-os-Montes, Oeste, Região de Aveiro, Região de Coimbra, Região de Leiria, Viseu Dão e Lafões, Beira Baixa, Médio Tejo, Beiras e Serra da Estrela, Área Metropolitana de Lisboa, Alentejo Litoral, Baixo Alentejo, Lezíria do Tejo, Alto Alentejo, Alentejo Central, Algarve, Regiões Autónomas dos Açores e Madeira
-	String
-Distrito	Nome de Distritos	String
-Concelho 	Nome de Conselhos	String
-Subsistema de Ensino	Publico ou Privado	String
-Tipo de Ensino	Universitário ou Politécnico	String
-Código Curso	Código do curso	String
-Curso	Nome do Curso	String
-NÍvel de Formação	Nível de formação (Licenciatura, Mestrado, Doutoramento)	String
-CNAEF - Código Grande Grupo	Código de Classificação Nacional de Áreas de Educação e Formação – Grande Grupo	Integer >=100
-CNAEF - Grande grupo	Nome de Classificação Nacional de Áreas de Educação e Formação – Grande Grupo	String
-CNAEF - Código Área de Estudo	Código de Classificação Nacional de Áreas de Educação e Formação – Área de Estudo	Integer >=140
-CNAEF - Área de Estudo	Nome de Classificação Nacional de Áreas de Educação e Formação – Área de Estudo	String
-CNAEF - Código Área de Educação e Formação	Código de Classificação Nacional de Áreas de Educação e Formação – Área de Educação e Formação	Integer >=142
-CNAEF - Área de Educação e Formação	Nome de Classificação Nacional de Áreas de Educação e Formação – Área de Educação e Formação	String
-Total	Número total de diplomados por CNAEF – Área de Educação e Formação	Integer >=0
-Sexo M – CONFIRMAR	Número total de diplomados do sexo masculino - CNAEF – Área de Educação e Formação	Integer >=0
-Sexo F - CONFIRMAR	Número total de diplomados do sexo masculino - CNAEF – Área de Educação e Formação	Integer >=0
-Nacionalidade Estrangeira - CONFIRMAR	Número total de diplomados de nacionalidade estrangeira - CNAEF – Área de Educação e Formação	Integer >=0
-Nacionalidade Portuguesa - CONFIRMAR	Número total de diplomados de nacionalidade portuguesa - CNAEF – Área de Educação e Formação	Integer >=0
+![tabela_pa](https://user-images.githubusercontent.com/84467035/119003743-e1804180-b985-11eb-8d7a-4cc183c16e37.png)
 
 ----------------------------------------------------------------------------------------
 💡 Contexto
