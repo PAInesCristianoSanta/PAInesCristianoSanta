@@ -236,6 +236,8 @@ http://localhost:8889/notebooks/PA2/barchart.ipynb<br>
 http://localhost:8889/notebooks/PA2/Aula%2021%2C%2028%20Abril%20e%205%20de%20Maio%20-%20Python%20Maltplotlib%20exercicios.ipynb<br>
 https://www.dges.gov.pt/<br>
 http://www.tablesgenerator.com/<br>
+https://gist.github.com/rxaviers/7360908<br>
+https://docs.github.com/pt/github/managing-your-work-on-github<br>
 
 --------------------------
 📖 Legislação útil
