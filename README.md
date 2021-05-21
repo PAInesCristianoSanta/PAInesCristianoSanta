@@ -206,7 +206,7 @@ Em 2014, foi criado um ciclo de estudos superior não conferente de grau académ
 📝  Tratamento de dados
 --
 
-Considerando o atual contexto social e tendo como princípio a questão da “atribuição de um grau académico” optou-se por apenas tratar os dados relativos às Licenciaturas, Mestrados e Doutoramentos, na medida em que os cursos de CTeSP e Pós-Graduações – presentes no ficheiro original, não atribuem aos seus diplomados um grau académico, mas sim uma especialização.
+Considerando o atual contexto social e tendo como princípio a questão da “atribuição de um grau académico” optou-se por apenas se tratar os dados relativos às Licenciaturas, Mestrados e Doutoramentos, na medida em que os cursos de CTeSP e Pós-Graduações – presentes no ficheiro original, não atribuem aos seus diplomados um grau académico, mas sim uma especialização.
 Pelo contexto profissional dos participantes e pelo contexto académico, consideramos que no desenvolvimento e tratamento destes dados seria, igualmente, interessante e relevante a distinção, não só dos diplomados que se formaram através do ensino superior público e/ou privado, como dos diplomados que se formaram através do ensino superior universitário e politécnico.
 
 ------------------------
