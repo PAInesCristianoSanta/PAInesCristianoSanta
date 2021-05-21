@@ -206,8 +206,10 @@ Em 2014, foi criado um ciclo de estudos superior não conferente de grau académ
 📝  Tratamento de dados
 --
 
-Considerando o atual contexto social e tendo como princípio a questão da “atribuição de um grau académico” optou-se por apenas se tratar os dados relativos às Licenciaturas, Mestrados e Doutoramentos, na medida em que os cursos de CTeSP e Pós-Graduações – presentes no ficheiro original, não atribuem aos seus diplomados um grau académico, mas sim uma especialização.
-Pelo contexto profissional dos participantes e pelo contexto académico, consideramos que no desenvolvimento e tratamento destes dados seria, igualmente, interessante e relevante a distinção, não só dos diplomados que se formaram através do ensino superior público e/ou privado, como dos diplomados que se formaram através do ensino superior universitário e politécnico.
+Considerando o atual contexto social e tendo como princípio a questão da “atribuição de um grau académico” optou-se por apenas tratar os dados relativos às Licenciaturas, Mestrados e Doutoramentos, na medida em que os cursos de CTeSP e Pós-Graduações – presentes no ficheiro original, não atribuem aos seus diplomados um grau académico, mas sim uma especialização.
+Pelo contexto profissional dos participantes e pelo contexto académico, consideramos que no desenvolvimento e tratamento destes dados seria, igualmente, interessante e relevante a distinção, não só dos diplomados que se formaram através do ensino superior público e/ou privado, como dos diplomados que se formaram através do ensino superior universitário e politécnico, reconhecendo que os Politécnicos - ainda - não ministram Doutoramentos. 
+
+[NotíciaDN](https://www.dn.pt/edicao-do-dia/25-fev-2020/doutoramentos-nos-politecnicos-governo-deu-luz-verde-mas-esta-ha-dois-anos-para-mudar-a-lei-11837908.html)
 
 ------------------------
 ‼️ Problemas, inconsistências e melhorias
@@ -238,6 +240,7 @@ As aulas lecionadas e o material partilhado pelo docente da unidade curricular, 
 • http://www.tablesgenerator.com/<br>
 • https://gist.github.com/rxaviers/7360908<br>
 • https://docs.github.com/pt/github/managing-your-work-on-github<br>
+• https://www.dn.pt/edicao-do-dia/25-fev-2020/doutoramentos-nos-politecnicos-governo-deu-luz-verde-mas-esta-ha-dois-anos-para-mudar-a-lei-11837908.html
 
 --------------------------
 📖 Legislação útil
