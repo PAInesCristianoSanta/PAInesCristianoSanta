@@ -232,6 +232,7 @@ As aulas lecionadas e o material partilhado pelo docente da unidade curricular, 
 • https://github.com/dssg-pt/covid19pt-data<br>
 • https://dados.gov.pt/pt/docs/about_dadosgov/<br>
 • https://dados.gov.pt/pt/datasets/alunos-diplomados-no-ensino-superior/#<br>
+• https://matplotlib.org/
 • https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py<br>
 • https://matplotlib.org/stable/gallery/index.html<br>
 • http://localhost:8889/notebooks/PA2/barchart.ipynb<br>
