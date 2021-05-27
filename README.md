@@ -248,6 +248,7 @@ As aulas lecionadas e o material partilhado pelo docente da unidade curricular, 
 • https://github.com/dssg-pt/covid19pt-data <br>
 • https://www.dn.pt/edicao-do-dia/25-fev-2020/doutoramentos-nos-politecnicos-governo-deu-luz-verde-mas-esta-ha-dois-anos-para-mudar-a-lei-11837908.html <br>
 • https://medium.com/horadecodar/gr%C3%A1ficos-de-barra-com-matplotlib-85628bfc4351 <br>
+• https://matplotlib.org/stable/gallery/lines_bars_and_markers/categorical_variables.html#sphx-glr-gallery-lines-bars-and-markers-categorical-variables-py<br>
 
 --------------------------
 📖 Legislação útil
