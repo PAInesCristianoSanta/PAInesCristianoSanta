@@ -3,8 +3,9 @@
 
 ℹ️ Fonte dos dados:<br> 
 Dados extraídos da plataforma [dados.gov](https://dados.gov.pt/) – portal de dados abertos da Administração Pública
+
 Dados.gov é o portal de dados abertos da Administração Pública portuguesa.
-Tem como função agregar, referenciar e alojar dados abertos de diferentes organismos e setores da Administração Pública, constituindo-se como o catálogo central de open data em Portugal. Além de funcionar como um serviço partilhado de alojamento e publicação de dados, que pode ser utilizado por qualquer organismo público, funciona também como um portal indexador de conteúdos alojados noutros portais/catálogos de dados abertos, sejam setoriais (ex. Saúde, Justiça, Ambiente) ou locais (ex. Câmara Municipal de Lisboa, Câmara Municipal de Águeda).
+Tem como função agregar, referenciar e alojar dados abertos de diferentes organismos e setores da Administração Pública, constituindo-se como o catálogo central de open data em Portugal. Além de funcionar como um serviço partilhado de alojamento e publicação de dados, que pode ser utilizado por qualquer organismo público, funciona também como um portal indexador de conteúdos alojados noutros portais/catálogos de dados abertos, sejam setoriais (ex. Saúde, Justiça, Ambiente) ou locais (ex. Câmara Municipal de Lisboa, Câmara Municipal de Águeda). 
 O [dados.gov](https://dados.gov.pt/) promove também casos de reutilizações que utilizam dados partilhados públicos, e disponibiliza informação variada sobre o movimento de dados abertos, publicação e reutilização de dados, entre outros.
 O [dados.gov](https://dados.gov.pt/) é um portal aberto, o que significa que qualquer utilizador, em nome próprio ou em representação de uma organização, pode criar uma conta e carregar dados, para que sejam partilhados com a comunidade, ao abrigo de licenças abertas.
 Disponibiliza também vários mecanismos de interação entre fornecedores de dados e reutilizadores, como a possibilidade de trocar comentários, submeter versões complementares de dados e propor melhorias à plataforma.
@@ -38,6 +39,7 @@ O repositório está organizado da seguinte forma:<br>
 •	TrabalhoFinal.ipynb: Notebook onde os alunos desenvolveram o seu trabalho/raciocício<br>
 •	PropostasProjeto_Inicial: Proposta de projeto de trabalho incial entregue ao docente da UC<br>
 •	Fundamentação do Projeto_PA2_santa.mendes.duarte: fundamentação e explicação do trabalho realizado <br>
+•	Cartaz A3 <br>
 
 -------------------------------------------------------------------------
 
@@ -208,6 +210,7 @@ Em 2014, foi criado um ciclo de estudos superior não conferente de grau académ
 --
 
 Considerando o atual contexto social e tendo como princípio a questão da “atribuição de um grau académico” optou-se por apenas tratar os dados relativos às Licenciaturas, Mestrados e Doutoramentos, na medida em que os cursos de CTeSP e Pós-Graduações – presentes no ficheiro original, não atribuem aos seus diplomados um grau académico, mas sim uma especialização.
+
 Pelo contexto profissional dos participantes e pelo contexto académico, consideramos que no desenvolvimento e tratamento destes dados seria, igualmente, interessante e relevante a distinção, não só dos diplomados que se formaram através do ensino superior público e/ou privado, como dos diplomados que se formaram através do ensino superior universitário e politécnico, reconhecendo que os Politécnicos - ainda - não ministram Doutoramentos. 
 
 [NotíciaDN](https://www.dn.pt/edicao-do-dia/25-fev-2020/doutoramentos-nos-politecnicos-governo-deu-luz-verde-mas-esta-ha-dois-anos-para-mudar-a-lei-11837908.html)
@@ -217,13 +220,14 @@ Pelo contexto profissional dos participantes e pelo contexto académico, conside
 --
 
 Algumas das questões detetadas ao longo do tratamento de dados, prenderam-se, sobretudo com a questão da não uniformização das denominações, quer das áreas de estudo, quer o nível de Formação.
-Como tal e de forma a tratarmos os dados com maior precisão, optámos por atribuir a mesma denominação aos níveis de Formação.
+Como tal, e de forma a tratarmos os dados com maior precisão, optámos por atribuir a mesma denominação aos níveis de Formação.
 
 ---------------------
 ▶️ Outras informações
 --
 
 Para o desenvolvimento deste trabalho os alunos consultaram páginas e respetivo código disponíveis na internet e nos respetivos sites dedicados a esta temática.
+
 As aulas lecionadas e o material partilhado pelo docente da unidade curricular, [Prof. Doutor João Orvalho](https://www.joao-orvalho.pt), foram igualmente preponderantes para o desenvolvimento e organização deste trabalho.
 
 --------------------
