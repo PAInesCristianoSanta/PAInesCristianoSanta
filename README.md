@@ -245,8 +245,9 @@ As aulas lecionadas e o material partilhado pelo docente da unidade curricular, 
 • http://www.tablesgenerator.com/<br>
 • https://gist.github.com/rxaviers/7360908<br>
 • https://docs.github.com/pt/github/managing-your-work-on-github<br>
-• https://github.com/dssg-pt/covid19pt-data
-• https://www.dn.pt/edicao-do-dia/25-fev-2020/doutoramentos-nos-politecnicos-governo-deu-luz-verde-mas-esta-ha-dois-anos-para-mudar-a-lei-11837908.html
+• https://github.com/dssg-pt/covid19pt-data <br>
+• https://www.dn.pt/edicao-do-dia/25-fev-2020/doutoramentos-nos-politecnicos-governo-deu-luz-verde-mas-esta-ha-dois-anos-para-mudar-a-lei-11837908.html <br>
+• https://medium.com/horadecodar/gr%C3%A1ficos-de-barra-com-matplotlib-85628bfc4351 <br>
 
 --------------------------
 📖 Legislação útil
