@@ -11,8 +11,7 @@ Disponibiliza também vários mecanismos de interação entre fornecedores de da
 É desenvolvido e gerido pela Agência para a Modernização Administrativa, IP (AMA), e baseia-se na plataforma udata, um produto criado pelo Etalab, uma estrutura de missão da Administração Pública francesa, e que é desenvolvido e disponibilizado numa lógica open source.
 
 
-ℹ️ Ficheiro base de trabalho: <br>
-[Alunos diplomados no Ensino Superior (ADES)](https://dados.gov.pt/pt/datasets/alunos-diplomados-no-ensino-superior/#_) - Portal de dados abertos da Administração Pública
+ℹ️ Ficheiro base de trabalho:[Alunos diplomados no Ensino Superior (ADES)](https://dados.gov.pt/pt/datasets/alunos-diplomados-no-ensino-superior/#_) - Portal de dados abertos da Administração Pública
 
 
 --------------
