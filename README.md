@@ -37,7 +37,7 @@ O repositório está organizado da seguinte forma:<br>
 •	TrabalhoFinal.ipynb: Notebook onde os alunos desenvolveram o seu trabalho/raciocício<br>
 •	PropostasProjeto_Inicial: Proposta de projeto de trabalho incial entregue ao docente da UC<br>
 •	Fundamentação do Projeto_PA2_santa.mendes.duarte: fundamentação e explicação do trabalho realizado <br>
-•	Cartaz A3_santa.mendes.duarte_PA2: fluxograma com as bases e pressupostos da/para a realização do trabalho <br>
+•	Cartaz A3_santa.mendes.duarte_PA2_cdm: fluxograma com as bases e pressupostos da/para a realização do trabalho <br>
 
 -------------------------------------------------------------------------
 
