@@ -34,7 +34,7 @@ Sendo um trabalho em desenvolvimento ainda não nos é possível aferir as aplic
 ----
 O repositório está organizado da seguinte forma:<br>
 •	DiplomadosFinal.csv: Dados extraídos da dashboard Diplomados 12_13<br>
-•	TrabalhoFinal.ipynb: Notebook onde os alunos desenvolveram o seu trabalho/raciocício<br>
+•	TrabalhoFinal_santa_mendes_duarte.ipynb: Notebook onde os alunos desenvolveram o seu trabalho/raciocício<br>
 •	PropostasProjeto_Inicial: Proposta de projeto de trabalho incial entregue ao docente da UC<br>
 •	Fundamentação do Projeto_PA2_santa.mendes.duarte: fundamentação e explicação do trabalho realizado <br>
 •	Cartaz A3_santa.mendes.duarte_PA2_cdm: fluxograma com as bases e pressupostos da/para a realização do trabalho <br>
